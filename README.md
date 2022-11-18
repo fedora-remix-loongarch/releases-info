@@ -1,2 +1,4 @@
 # releases-info
-Post information-related content
+
+Fedora LoongArch架构体验LiveCD
+Fedora RawHide for LoongArch LiveCD ISO
