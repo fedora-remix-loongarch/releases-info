@@ -11,3 +11,7 @@ https://github.com/fedora-remix-loongarch/releases-info/releases/download/202211
 LiveCD for Mate Desktop environment
 
 https://github.com/fedora-remix-loongarch/releases-info/releases/download/20221210/livecd-fedora-mate-1.loongarch64.iso
+
+LiveCD for WorkStation
+
+https://github.com/fedora-remix-loongarch/releases-info/releases/download/20221225/livecd-fedora-WS-1.loongarch64.iso
