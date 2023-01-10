@@ -14,4 +14,4 @@ https://github.com/fedora-remix-loongarch/releases-info/releases/download/202212
 
 LiveCD for WorkStation
 
-https://github.com/fedora-remix-loongarch/releases-info/releases/download/20221225/livecd-fedora-WS-1.loongarch64.iso
+https://github.com/fedora-remix-loongarch/releases-info/releases/download/20230110/livecd-fedora-WS-3.loongarch64.iso
