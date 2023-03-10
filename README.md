@@ -4,14 +4,14 @@ Fedora LoongArch架构体验LiveCD
 
 Fedora RawHide for LoongArch LiveCD ISO
 
-LiveCD for LXDE Desktop environment
+LXDE桌面环境 (LiveCD for LXDE Desktop environment)
 
 https://github.com/fedora-remix-loongarch/releases-info/releases/download/20221118/livecd-fedora-lxde-20221118.iso
 
-LiveCD for Mate Desktop environment
+MATE 桌面环境 (LiveCD for Mate Desktop environment）
 
-https://github.com/fedora-remix-loongarch/releases-info/releases/download/20230110/livecd-fedora-mate-2.loongarch64.iso
+http://mirrors.wsyu.edu.cn/fedora/linux/development/rawhide/Everything/loongarch64/iso/livecd-fedora-mate-4.loongarch64.iso
 
-LiveCD for WorkStation
+GNOME桌面环境 （LiveCD for WorkStation)
 
-https://github.com/fedora-remix-loongarch/releases-info/releases/download/20230110/livecd-fedora-WS-3.loongarch64.iso
+http://mirrors.wsyu.edu.cn/fedora/linux/development/rawhide/Everything/loongarch64/iso/livecd-fedora-WS-5.loongarch64.iso
