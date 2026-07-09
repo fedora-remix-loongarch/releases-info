@@ -4,28 +4,27 @@
 
 GNOME桌面环境 （LiveCD for WorkStation)
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-workstation-202607011822.iso
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-workstation-202607082229.iso
 
 MATE 桌面环境 (LiveCD for Mate Desktop environment）
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-mate_compiz-202607011558.iso
-
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-mate_compiz-202607082205.iso
 
 KDE6 桌面环境 (LiveCD for KDE6 Desktop environment）
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-kde-202607011632.iso
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-kde-202607081932.iso
 
 LXDE桌面环境 (LiveCD for LXDE Desktop environment)
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-lxde-202607011800.iso
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-lxde-202607082115.iso
 
 XFCE 桌面环境 (LiveCD for XFCE Desktop environment）
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-xfce-202607011528.iso
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-live-xfce-202607082315.iso
 
 MINI系统 (LiveCD for Minimal）
 
-https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-minimal-202607011958.iso
+https://mirrors.wsyu.edu.cn/fedora/linux/F43/rawhide/Everything/loongarch64/iso/livecd-fedora-minimal-202607081830.iso
 
 </br>
 
